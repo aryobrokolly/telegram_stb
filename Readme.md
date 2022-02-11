@@ -14,4 +14,3 @@ chmod +x /sbin/*
 
 
 Script By Aryo Brokolly
-
